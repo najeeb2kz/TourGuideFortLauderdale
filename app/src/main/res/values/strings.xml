@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tour Guide Fort Lauderdale</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Activity page title for tabs/viewpager -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Activity page title for tabs/viewpager -->
+    <string name="category_Shopping">Shopping</string>
+
+    <!-- Activity page title for tabs/viewpager -->
+    <string name="category_theaters">Theaters</string>
+
+    <!-- Activity page title for tabs/viewpager -->
+    <string name="category_parks">Parks</string>
+
+
+
+
+</resources>
